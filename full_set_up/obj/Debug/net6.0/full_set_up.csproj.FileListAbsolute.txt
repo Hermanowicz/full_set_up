@@ -1,0 +1,17 @@
+C:\Users\thermanowicz\kod\full_set_up\full_set_up\bin\Debug\net6.0\full_set_up.exe
+C:\Users\thermanowicz\kod\full_set_up\full_set_up\bin\Debug\net6.0\full_set_up.deps.json
+C:\Users\thermanowicz\kod\full_set_up\full_set_up\bin\Debug\net6.0\full_set_up.runtimeconfig.json
+C:\Users\thermanowicz\kod\full_set_up\full_set_up\bin\Debug\net6.0\full_set_up.dll
+C:\Users\thermanowicz\kod\full_set_up\full_set_up\bin\Debug\net6.0\full_set_up.pdb
+C:\Users\thermanowicz\kod\full_set_up\full_set_up\bin\Debug\net6.0\Sharprompt.dll
+C:\Users\thermanowicz\kod\full_set_up\full_set_up\obj\Debug\net6.0\full_set_up.csproj.AssemblyReference.cache
+C:\Users\thermanowicz\kod\full_set_up\full_set_up\obj\Debug\net6.0\full_set_up.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thermanowicz\kod\full_set_up\full_set_up\obj\Debug\net6.0\full_set_up.AssemblyInfoInputs.cache
+C:\Users\thermanowicz\kod\full_set_up\full_set_up\obj\Debug\net6.0\full_set_up.AssemblyInfo.cs
+C:\Users\thermanowicz\kod\full_set_up\full_set_up\obj\Debug\net6.0\full_set_up.csproj.CoreCompileInputs.cache
+C:\Users\thermanowicz\kod\full_set_up\full_set_up\obj\Debug\net6.0\full_set_up.csproj.CopyComplete
+C:\Users\thermanowicz\kod\full_set_up\full_set_up\obj\Debug\net6.0\full_set_up.dll
+C:\Users\thermanowicz\kod\full_set_up\full_set_up\obj\Debug\net6.0\refint\full_set_up.dll
+C:\Users\thermanowicz\kod\full_set_up\full_set_up\obj\Debug\net6.0\full_set_up.pdb
+C:\Users\thermanowicz\kod\full_set_up\full_set_up\obj\Debug\net6.0\full_set_up.genruntimeconfig.cache
+C:\Users\thermanowicz\kod\full_set_up\full_set_up\obj\Debug\net6.0\ref\full_set_up.dll

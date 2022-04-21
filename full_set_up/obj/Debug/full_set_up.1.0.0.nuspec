@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>full_set_up</id>
+    <version>1.0.0</version>
+    <authors>full_set_up</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Sharprompt" version="2.4.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\thermanowicz\kod\full_set_up\full_set_up\bin\Debug\net6.0\full_set_up.runtimeconfig.json" target="lib\net6.0\full_set_up.runtimeconfig.json" />
+    <file src="C:\Users\thermanowicz\kod\full_set_up\full_set_up\bin\Debug\net6.0\full_set_up.dll" target="lib\net6.0\full_set_up.dll" />
+  </files>
+</package>

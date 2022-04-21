@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lEO95TLqrVid+5Ki+xVOaFtdvUGL2r9qn1q++NoHotoJQWwJB3G0JrMQb+wb2xkA6LjTKPDky2/7H50JI3O5Bw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thermanowicz\\kod\\full_set_up\\full_set_up\\full_set_up.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thermanowicz\\.nuget\\packages\\sharprompt\\2.4.1\\sharprompt.2.4.1.nupkg.sha512",
+    "C:\\Users\\thermanowicz\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
