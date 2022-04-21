@@ -22,6 +22,11 @@ while (flag)
     var val = Prompt.Select("Co chcesz Zrobić?", new[] {"Sprawdź pogodę", "Zainstaluj Choco", "Zainstaluj Driver ODBC I biblioteki VS C++",
                              "Zainstaluj Chrome + Adobe + TeamViewer", "Zainstaluj CRM-a", "Więcej...", "Zakończ."});
 
+    // todo: funkcja dodająca komputer do domeny 
+    // todo: funkcja zmieniająca nazwę komputera
+    // todo: funkcje łączone
+    // todo: zachowanie stanu oraz ponowne uruchomienie po restarcie
+
 
     switch (val)
     {
